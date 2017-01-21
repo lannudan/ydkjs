@@ -1,2 +1,0 @@
-# ydkjs
-ydkjs activities
